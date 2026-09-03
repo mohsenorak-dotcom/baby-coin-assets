@@ -1,0 +1,25 @@
+{
+  "name": "BABY COIN",
+  "type": "BEP20",
+  "symbol": "BABY",
+  "decimals": 18,
+  "website": "https://beacons.ai/babyco",
+  "description": "BABY COIN is a BEP-20 token on BNB Smart Chain with a fixed total supply of 21,000,000 BABY and 0% transfer tax. The project is designed around transparent token mechanics, simple peer-to-peer transfers, and community participation.",
+  "explorer": "https://bscscan.com/token/0x0e5f7CF1641d029Cfb0c11bc1f485d33d26104B0",
+  "status": "active",
+  "id": "0x0e5f7CF1641d029Cfb0c11bc1f485d33d26104B0",
+  "logo": "https://raw.githubusercontent.com/mohsenorak-dotcom/baby-coin-assets/main/Logo.PNG",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/mohsenorak-dotcom/baby-coin-assets"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://raw.githubusercontent.com/mohsenorak-dotcom/baby-coin-assets/main/BABY_COIN_Whitepaper_v1.0.pdf"
+    }
+  ],
+  "tags": [
+    "memes"
+  ]
+}
