@@ -1,6 +1,6 @@
-# -baby-coin-assets
-    Official assets for BABY COIN
-BABY COIN
+# BABY COIN
+
+Official assets for BABY COIN
 
 Network: BNB Smart Chain
 Symbol: BABY
@@ -9,3 +9,6 @@ Total Supply: 21,000,000 BABY
 
 Official Contract Address:
 0x0e5f7CF1641d029Cfb0c11bc1f485d33d26104B0
+
+Official Website:
+https://www.babycoin1.com
